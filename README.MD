@@ -4,6 +4,7 @@
  This project focuses on Exploratory Data Analysis (EDA) of mobile sales data, using a dataset sourced from Kaggle. During the analysis, I uncovered several meaningful insights and patterns that highlight trends in sales, pricing, and customer preferences. The goal of this project is to explore the dataset, identify hidden patterns, and derive data-driven observations.
 
 For a detailed explanation of the analysis and visualizations, you can refer to the complete script provided in this project.
+
 **Project link:** <a>https://github.com/sumitbhagat1x/python_eda_mobile_sales</a>
 
 -----------------
