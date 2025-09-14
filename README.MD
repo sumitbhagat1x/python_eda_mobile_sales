@@ -5,7 +5,6 @@
 
 For a detailed explanation of the analysis and visualizations, you can refer to the complete script provided in this project.
 
-**Project link:** <a>https://github.com/sumitbhagat1x/python_eda_mobile_sales</a>
 
 ------------
 **Top three Brands:**
@@ -20,6 +19,8 @@ For a detailed explanation of the analysis and visualizations, you can refer to 
 
 -----------------
 
+**Project link:** <a>https://github.com/sumitbhagat1x/python_eda_mobile_sales</a>
+---------------------
 **Sumit Bhagat**  
 Aspiring Data Analyst  
 📧 Email: sumitbhagat066@gmail.com  
