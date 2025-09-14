@@ -9,14 +9,14 @@ For a detailed explanation of the analysis and visualizations, you can refer to 
 
 ------------
 **Top three Brands:**
-Apple (35.9% sales of entire sales)
-Samusung (22% sales of entire sales)
-Realme (6.7% sales of entire sales)
+- Apple (35.9% sales of entire sales)
+- Samusung (22% sales of entire sales)
+- Realme (6.7% sales of entire sales)
 
 **Bottom three Brands:**
-IQOO (0.2% sales of entire sales)
-GIONEE (1.2% sales of entire sales)
-Lenovo (1.5% sales of entire sales
+- IQOO (0.2% sales of entire sales)
+- GIONEE (1.2% sales of entire sales)
+- Lenovo (1.5% sales of entire sales
 
 -----------------
 
