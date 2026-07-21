@@ -7,7 +7,8 @@ For a detailed explanation of the analysis and visualizations, you can refer to 
 
 
 ------------
-*Note:* I haven't added all insights below.  If you want to check all insights at once, then you can refer to the script file.*
+*Note:* I haven't added all insights below.  If you want to check all insights at once, then you can refer to the script file.
+-------------
 **Top three Brands:**
 - Apple (35.9% sales of entire sales)
 - Samusung (22% sales of entire sales)
